@@ -14,6 +14,6 @@
     }
   ],
   "theme_color": "#eef0f4",
-  "background_color": rgb(145, 47, 86),
+  "background_color": "rgb(145, 47, 86)",
   "display": "standalone"
 }
