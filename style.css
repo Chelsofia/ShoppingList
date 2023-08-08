@@ -52,6 +52,7 @@ ul {
     flex-wrap: wrap;
     gap: 10px;
     margin: 10px;
+    color: #000;
 }
 
 ul li {
